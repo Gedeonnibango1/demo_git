@@ -1,3 +1,5 @@
 Ceci est un fichier text de qualité
 
-Où j'ai ajouté quelque chose
+Modification depuis ma machine locale.
+
+Salut les amis ==> hello dear friend
