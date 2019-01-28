@@ -1,0 +1,7 @@
+Salut les amis,
+
+Juste pour faire une petite modif
+à partir de ma machine locale
+et pusher mon file vers github
+
+thanks :)
